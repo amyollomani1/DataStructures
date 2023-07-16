@@ -25,3 +25,6 @@ class Solution:
                 squares[(r//3, c//3)].add(board[r][c])     
                 
         return True
+    
+
+    
